@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! Thanks for checking out my profile! 🌟<br><br>👩‍💻 I'm Malavika Gowthaman, Senior Software Engineer. 💼<br>💡 Dynamic and motivated Data Analyst | Data Scientist with 2.5+ years of experience. 📈<br>🔍 I'm passionate about using skills and tools to extract meaningful insights from huge data sets. 🔎<br>📊 I've developed various dashboards using Data Visualization Tools. 📉<br>💻 Experienced in SQL, Python, and have good knowledge of ETL Tools. 🐍<br>🚀 In a vibrant, quick-paced atmosphere, I'm eager to share my knowledge and advance as a data scientist. 💬<br>💬 "Let's get in touch and explore joint innovation prospects." 🤝
+👋 Hi there! 🌟<br><br>👩‍💻 I'm Malavika Gowthaman, Senior Software Engineer. 💼<br>💡 Dynamic and motivated Data Analyst | Data Scientist with 2.5+ years of experience. 📈<br>🔍 I'm passionate about using skills and tools to extract meaningful insights from huge data sets. 🔎<br>📊 I've developed various dashboards using Data Visualization Tools. 📉<br>💻 Experienced in SQL, Python, and have good knowledge of ETL Tools. 🐍<br>🚀 In a vibrant, quick-paced atmosphere, I'm eager to share my knowledge and advance as a data scientist. 💬<br>💬 "Let's get in touch and explore joint innovation prospects." 🤝
 
 
 ## 🌐 Socials:
